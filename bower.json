@@ -1,5 +1,5 @@
 {
-  "name": "PykCharts",
+  "name": "pykcharts",
   "description": "PykCharts re-usable charts",
   "main": "dist/pykcharts.1.1.0.js",
   "authors": [
