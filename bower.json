@@ -1,7 +1,7 @@
 {
   "name": "PykCharts",
   "description": "PykCharts re-usable charts",
-  "main": "pykcharts.1.1.0.min.js",
+  "main": "dist/pykcharts.1.1.0.js",
   "authors": [
     "Pykih"
   ],
