@@ -3,12 +3,7 @@
   "description": "PykCharts re-usable charts",
   "main": [
     "dist/pykcharts.1.1.0.js",
-    "dist/pykcharts.1.1.0.css",
-    "pykih-charts/assets/lib/colors.min.js",
-    "pykih-charts/assets/lib/custom-hive.min.js",
-    "pykih-charts/assets/lib/d3.min.js",
-    "pykih-charts/assets/lib/paper-full.min.js",
-    "pykih-charts/assets/lib/topojson.min.js"
+    "dist/pykcharts.1.1.0.css"
   ],
   "authors": [
     "Pykih"
@@ -22,5 +17,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "d3": "3.x",
+    "topojson": "^1.x",
+    "paper": "latest",
+    "Colors.js": "latest"
+  }
 }
