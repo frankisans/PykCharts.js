@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="405">
+              <caret line="27" column="46" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,22 +44,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pyk.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pyk.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/js/pyk.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="962" column="46" selection-start-line="962" selection-start-column="40" selection-end-line="962" selection-end-column="46" />
+            <state relative-caret-position="-4367">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1461843032000" expanded="true" signature="4558:4862" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="5697:5961" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="7574:7590" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="7624:7644" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="7683:7703" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="9968:9988" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="10684:10704" placeholder="..." />
-                <marker date="1461843032000" expanded="true" signature="49978:50031" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="4550:4854" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="5689:5953" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="7566:7582" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="7616:7636" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="7675:7695" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="9960:9980" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="10676:10696" placeholder="..." />
+                <marker date="1461863647000" expanded="true" signature="49970:50023" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="787">
+              <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,18 +87,18 @@
       <file leaf-file-name="pykcharts.1.1.0.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/pykcharts.1.1.0.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-6401">
+              <caret line="68" column="41" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1461844639000" expanded="true" signature="4558:4862" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="5697:5961" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="7574:7590" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="7624:7644" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="7683:7703" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="9968:9988" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="10684:10704" placeholder="..." />
-                <marker date="1461844639000" expanded="true" signature="49978:50031" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="4550:4854" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="5689:5953" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="7566:7582" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="7616:7636" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="7675:7695" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="9960:9980" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="10676:10696" placeholder="..." />
+                <marker date="1461863656000" expanded="true" signature="49970:50023" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -122,10 +132,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dist/pykcharts.1.1.0.js" />
         <option value="$PROJECT_DIR$/.gitattributes" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/dist/pykcharts.1.1.0.js" />
+        <option value="$PROJECT_DIR$/src/js/init.js" />
+        <option value="$PROJECT_DIR$/src/js/pyk.js" />
       </list>
     </option>
   </component>
@@ -294,6 +306,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PykCharts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PykCharts.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -976,7 +1002,7 @@
       <option name="presentableId" value="Default" />
       <updated>1412951175794</updated>
       <workItem from="1461843475281" duration="3827000" />
-      <workItem from="1461859704533" duration="1095000" />
+      <workItem from="1461859704533" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="Update bower.json">
       <created>1461843769859</created>
@@ -1055,48 +1081,69 @@
       <option name="project" value="LOCAL" />
       <updated>1461862628382</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add dependencies&#10;">
+      <created>1461862671542</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1461862671542</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Correcció urls i eliminar numberFormat">
+      <created>1461863743602</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1461863743602</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Correcció urls i eliminar numberFormat">
+      <created>1461863753804</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1461863753804</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4922000" />
+    <option name="totallyTimeSpent" value="5996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1352" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940828" sideWeight="0.50038373" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33015874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.49052134" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5094787" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Dilbert" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Notes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940828" sideWeight="0.49961627" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33015874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884312" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.49052134" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5094787" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940828" sideWeight="0.49961627" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1111,6 +1158,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Update bower.json" />
     <MESSAGE value="remove .idea directory from git repository" />
     <MESSAGE value="Change line endings to LF" />
@@ -1120,7 +1169,8 @@
     <MESSAGE value="Add css to bower main" />
     <MESSAGE value="Add dependencies" />
     <MESSAGE value="Add dependencies&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dependencies&#10;" />
+    <MESSAGE value="Correcció urls i eliminar numberFormat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcció urls i eliminar numberFormat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1156,36 +1206,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/pykcharts.1.1.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1461844639000" expanded="true" signature="4558:4862" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="5697:5961" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="7574:7590" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="7624:7644" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="7683:7703" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="9968:9988" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="10684:10704" placeholder="..." />
-            <marker date="1461844639000" expanded="true" signature="49978:50031" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1222,29 +1246,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/pyk.js">
+    <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="962" column="46" selection-start-line="962" selection-start-column="40" selection-end-line="962" selection-end-column="46" />
+        <state relative-caret-position="405">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="449" column="29" selection-start-line="449" selection-start-column="27" selection-end-line="449" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/pykcharts.1.1.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6401">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1461843032000" expanded="true" signature="4558:4862" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="5697:5961" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="7574:7590" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="7624:7644" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="7683:7703" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="9968:9988" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="10684:10704" placeholder="..." />
-            <marker date="1461843032000" expanded="true" signature="49978:50031" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="4550:4854" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="5689:5953" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="7566:7582" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="7616:7636" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="7675:7695" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="9960:9980" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="10676:10696" placeholder="..." />
+            <marker date="1461863656000" expanded="true" signature="49970:50023" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
+    <entry file="file://$PROJECT_DIR$/src/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="787">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/pyk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4367">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1461863647000" expanded="true" signature="4550:4854" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="5689:5953" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="7566:7582" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="7616:7636" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="7675:7695" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="9960:9980" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="10676:10696" placeholder="..." />
+            <marker date="1461863647000" expanded="true" signature="49970:50023" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -66,7 +66,7 @@ PykCharts.Configuration = function (options){
             return this;
         },
         appendUnits: function (text) {
-            text = PykCharts.numberFormat(text);
+            text = d3.format(",")(text);
             var label,prefix,suffix;
                 prefix = options.units_prefix,
                 suffix = options.units_suffix;

@@ -43,17 +43,17 @@ var anonymousFunc = function () {
     }
     try {
         if(!d3.customHive) {
-            importFiles(urls[1]);
-        }
-    } catch (e) {
-        importFiles(urls[1]);
-    }
-    try {
-        if(!topojson) {
             importFiles(urls[2]);
         }
     } catch (e) {
         importFiles(urls[2]);
+    }
+    try {
+        if(!topojson) {
+            importFiles(urls[1]);
+        }
+    } catch (e) {
+        importFiles(urls[1]);
     }
     try {
         if(!$c) {
