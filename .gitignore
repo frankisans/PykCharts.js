@@ -3,3 +3,5 @@
 src/js/multiD/river.js
 examples/river.html
 dump/
+
+.idea/workspace.xml
