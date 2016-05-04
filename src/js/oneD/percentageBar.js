@@ -295,7 +295,7 @@ PykCharts.oneD.percentageBar = function (options) {
                     that.chart_text.text("")
                         .attr({
                             "fill": function(d) {
-                                if(that.color_mode === "shade" && !options.label_color) {
+                                if((that.color_mode === "shade" || that.color_mode === "color") && !options.label_color) {
                                     var color_value = that.k.__proto__._colourBrightness(d.color);
                                     if(color_value === "light") {
                                         return "black";

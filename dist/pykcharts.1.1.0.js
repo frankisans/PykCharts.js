@@ -3107,7 +3107,7 @@ PykCharts.oneD.bubble = function (options) {
 
                 chart_text.attr("text-anchor","middle")
                     .attr("fill", function(d) {
-                        if(that.color_mode === "shade" && !d.children && !options.label_color) {
+                        if((that.color_mode === "shade" || that.color_mode === "color") && !d.children && !options.label_color) {
                             var color_value = that.k.__proto__._colourBrightness(d.color);
                             if(color_value === "light") {
                                 return "black";
@@ -3143,7 +3143,7 @@ PykCharts.oneD.bubble = function (options) {
                         .attr({
                             "text-anchor":"middle",
                             "fill": function(d) {
-                                if(that.color_mode === "shade" && !d.children && !options.label_color) {
+                                if((that.color_mode === "shade" || that.color_mode === "color") && !d.children && !options.label_color) {
                                     var color_value = that.k.__proto__._colourBrightness(d.color);
                                     if(color_value === "light") {
                                         return "black";
@@ -4592,7 +4592,7 @@ PykCharts.oneD.percentageBar = function (options) {
                     that.chart_text.text("")
                         .attr({
                             "fill": function(d) {
-                                if(that.color_mode === "shade" && !options.label_color) {
+                                if((that.color_mode === "shade" || that.color_mode === "color") && !options.label_color) {
                                     var color_value = that.k.__proto__._colourBrightness(d.color);
                                     if(color_value === "light") {
                                         return "black";
@@ -6549,7 +6549,7 @@ PykCharts.oneD.treemap = function (options){
                         .attr({
                             "text-anchor": "middle",
                             "fill": function(d) {
-                                if(that.color_mode === "shade" && !d.children && !options.label_color) {
+                                if((that.color_mode === "shade" || that.color_mode === "color") && !d.children && !options.label_color) {
                                     var color_value = that.k.__proto__._colourBrightness(d.color);
                                     if(color_value === "light") {
                                         return "black";
@@ -6585,7 +6585,7 @@ PykCharts.oneD.treemap = function (options){
                         .attr({
                             "text-anchor": "middle",
                             "fill": function(d) {
-                                if(that.color_mode === "shade" && !d.children && !options.label_color) {
+                                if((that.color_mode === "shade" || that.color_mode === "color") && !d.children && !options.label_color) {
                                     var color_value = that.k.__proto__._colourBrightness(d.color);
                                     if(color_value === "light") {
                                         return "black";
