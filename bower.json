@@ -19,9 +19,5 @@
     "tests"
   ],
   "dependencies": {
-    "d3": "3.x",
-    "topojson": "^1.x",
-    "paper": "latest",
-    "Colors.js": "latest"
   }
 }
