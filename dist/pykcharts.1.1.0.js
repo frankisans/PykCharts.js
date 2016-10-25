@@ -14,7 +14,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 * ====================================================== */
 
 var PykCharts = {};
-PykCharts.assets = "../pykih-charts/assets/";
+PykCharts.assets = "/";
 PykCharts.export_menu_status = 0;
 
 PykCharts['boolean'] = function(d) {
@@ -3067,7 +3067,7 @@ PykCharts.oneD.bubble = function (options) {
                         },
                         'click': function (d,i) {
                             if(PykCharts['boolean'](that.click_enable)){
-                               that.addEvents(d.name, d3.select(this).attr("data-id")); 
+                               that.addEvents(d.name, d3.select(this).attr("data-id"), d);
                             }                     
                         }
                     })
@@ -4535,7 +4535,7 @@ PykCharts.oneD.percentageBar = function (options) {
                     },
                     "click" : function (d,i) {
                         if(PykCharts['boolean'](that.click_enable)){
-                           that.addEvents(d.name, d3.select(this).attr("data-id")); 
+                           that.addEvents(d.name, d3.select(this).attr("data-id"), d);
                         }                     
                     }
                 })
@@ -6508,7 +6508,7 @@ PykCharts.oneD.treemap = function (options){
                         },
                         'click' :  function (d,i) {
                             if(PykCharts['boolean'](that.click_enable)){
-                               that.addEvents(d.name, d3.select(this).attr("data-id")); 
+                               that.addEvents(d.name, d3.select(this).attr("data-id"), d);
                             }                     
                         }
                     })
