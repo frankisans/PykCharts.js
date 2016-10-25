@@ -238,7 +238,7 @@ PykCharts.oneD.percentageBar = function (options) {
                     },
                     "click" : function (d,i) {
                         if(PykCharts['boolean'](that.click_enable)){
-                           that.addEvents(d.name, d3.select(this).attr("data-id")); 
+                           that.addEvents(d.name, d3.select(this).attr("data-id"), d);
                         }                     
                     }
                 })
